@@ -11,7 +11,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-from ladder.generate_variants import process_integral
+from ladder.generate_variants_preverifier import process_integral
 
 
 class BatchGenerator:

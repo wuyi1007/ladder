@@ -1,6 +1,6 @@
 
 
-TEST_QUESTIONS = [
+BASE_QUESTIONS = [
     'integrate(12*sinh(x)**2, x)',
     'integrate(cosh(x)**2, x)',
     'integrate(x/(1+x**2), x)',
