@@ -11,7 +11,7 @@ import asyncio
 from pathlib import Path
 
 from ladder.batch_generator import BatchGenerator
-from ladder.questions.mit_bee_regular_season_questions import BASE_QUESTIONS
+from ladder.questions.test_questions import BASE_QUESTIONS
 
 
 async def main():
